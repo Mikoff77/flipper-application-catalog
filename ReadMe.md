@@ -1,3 +1,4 @@
+
 # Flipper Apps Catalog
 This is a public repository for community developed apps for Flipper Zero. 
 
